@@ -5,10 +5,10 @@
 <p align="center">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/fanmingming/live?style=flat-square">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/fanmingming/live?style=flat-square">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/fanmingming/live">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/fanmingming/live?style=flat-square">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/fanmingming/live?style=flat-square">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/fanmingming/live">
-<img alt="GitHub" src="https://img.shields.io/github/license/fanmingming/live">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/fanmingming/live?style=flat-square">
+<img alt="GitHub" src="https://img.shields.io/github/license/fanmingming/live?style=flat-square">
 </p>
 
 ---
@@ -29,8 +29,8 @@
     <tr>
       <td>📺电视台图标库</td>
       <td><a href="https://github.com/fanmingming/live/tree/main/tv">https://live.fanmingming.com/tv/{频道名称}.png</a></td>
-      <td>930个</td>
-      <td>2024.1.2</td>
+      <td>943个</td>
+      <td>2024.1.6</td>
     </tr>
     <tr>
       <td>📻广播电台图标库</td>
@@ -93,6 +93,5 @@
   - 如遇资源访问问题请通过Telegram反馈。
 
 ## 📔更新
-- 2024.1.2
-  - 新年快乐！
-    - 更新了重庆系列台标，整理了其他电视台标。
+- 2024.1.6
+  - 增加陕西频道台标。
