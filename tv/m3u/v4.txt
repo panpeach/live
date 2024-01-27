@@ -1,20 +1,21 @@
-ÑëÊÓ,#genre#
-CCTV-1 ×ÛºÏ,https://live3.rxip.sc96655.com/live/CCTV-1H265.m3u8
-CCTV-2 ²Æ¾­,https://live3.rxip.sc96655.com/live/CCTV-2H265.m3u8
-CCTV-3 ×ÛÒÕ,https://live3.rxip.sc96655.com/live/CCTV-3H265.m3u8
-CCTV-4 ÖĞÎÄ¹ú¼Ê,https://live3.rxip.sc96655.com/live/CCTV-4H265.m3u8
-CCTV-5 ÌåÓı,https://live3.rxip.sc96655.com/live/CCTV-5H265.m3u8
-CCTV-5+ ÌåÓıÈüÊÂ,https://live3.rxip.sc96655.com/live/CCTV-5plusH265.m3u8
-CCTV-6 µçÓ°,https://live3.rxip.sc96655.com/live/CCTV-6H265.m3u8
-CCTV-7 ¹ú·À¾üÊÂ,https://live3.rxip.sc96655.com/live/CCTV-7H265.m3u8
-CCTV-8 µçÊÓ¾ç,https://live3.rxip.sc96655.com/live/CCTV-8H265.m3u8
-CCTV-9 ¼ÍÂ¼,https://live3.rxip.sc96655.com/live/CCTV-9H265.m3u8
-CCTV-10 ¿Æ½Ì,https://live3.rxip.sc96655.com/live/CCTV-10H265.m3u8
-CCTV-11 Ï·Çú,https://live3.rxip.sc96655.com/live/CCTV-11-H265.m3u8
-CCTV-12 Éç»áÓë·¨,https://live3.rxip.sc96655.com/live/CCTV-12H265.m3u8
-CCTV-13 ĞÂÎÅ,https://live3.rxip.sc96655.com/live/CCTV-xw.m3u8
-CCTV-14 ÉÙ¶ù,https://live3.rxip.sc96655.com/live/CCTV-14H265.m3u8
-CCTV-15 ÒôÀÖ,https://live3.rxip.sc96655.com/live/CCTV-15-yyH265.m3u8
-CCTV-16 °ÂÁÖÆ¥¿Ë,https://live3.rxip.sc96655.com/live/CCTV-16.m3u8
-CCTV-16 °ÂÁÖÆ¥¿Ë 4K,https://live3.rxip.sc96655.com/live/CCTV-16-4K.m3u8
-CCTV-17 Å©ÒµÅ©´å,https://live3.rxip.sc96655.com/live/CCTV-17.m3u8
+å¤®è§†,#genre#
+CCTV-1 ç»¼åˆ,https://live3.rxip.sc96655.com/live/CCTV-1H265.m3u8
+CCTV-2 è´¢ç»,https://live3.rxip.sc96655.com/live/CCTV-2H265.m3u8
+CCTV-3 ç»¼è‰º,https://live3.rxip.sc96655.com/live/CCTV-3H265.m3u8
+CCTV-4 ä¸­æ–‡å›½é™…,https://live3.rxip.sc96655.com/live/CCTV-4H265.m3u8
+CCTV-5 ä½“è‚²,https://live3.rxip.sc96655.com/live/CCTV-5H265.m3u8
+CCTV-5+ ä½“è‚²èµ›äº‹,https://live3.rxip.sc96655.com/live/CCTV-5plusH265.m3u8
+CCTV-6 ç”µå½±,https://live3.rxip.sc96655.com/live/CCTV-6H265.m3u8
+CCTV-7 å›½é˜²å†›äº‹,https://live3.rxip.sc96655.com/live/CCTV-7H265.m3u8
+CCTV-8 ç”µè§†å‰§,https://live3.rxip.sc96655.com/live/CCTV-8H265.m3u8
+CCTV-9 çºªå½•,https://live3.rxip.sc96655.com/live/CCTV-9H265.m3u8
+CCTV-10 ç§‘æ•™,https://live3.rxip.sc96655.com/live/CCTV-10H265.m3u8
+CCTV-11 æˆæ›²,https://live3.rxip.sc96655.com/live/CCTV-11-H265.m3u8
+CCTV-12 ç¤¾ä¼šä¸æ³•,https://live3.rxip.sc96655.com/live/CCTV-12H265.m3u8
+CCTV-13 æ–°é—»,https://live3.rxip.sc96655.com/live/CCTV-xw.m3u8
+CCTV-14 å°‘å„¿,https://live3.rxip.sc96655.com/live/CCTV-14H265.m3u8
+CCTV-15 éŸ³ä¹,https://live3.rxip.sc96655.com/live/CCTV-15-yyH265.m3u8
+CCTV-16 å¥¥æ—åŒ¹å…‹,https://live3.rxip.sc96655.com/live/CCTV-16.m3u8
+CCTV-16 å¥¥æ—åŒ¹å…‹ 4K,https://live3.rxip.sc96655.com/live/CCTV-16-4K.m3u8
+CCTV-17 å†œä¸šå†œæ‘,https://live3.rxip.sc96655.com/live/CCTV-17.m3u8
+
