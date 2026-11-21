@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml,https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz,https://epg.catvod.com/epg.xml"
+#EXTM3U x-tvg-url="https://epg.deny.vip/sh/tel-epg.xml,https://ghfast.top/https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz,https://gh-proxy.org/https://raw.githubusercontent.com/kuke31/xmlgz/main/e.xml.gz"
 #EXTVLCOPT:http-user-agent="qqlive"
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/panpeach/tvbox/TVlogo/东方卫视.png" group-title="上海频道",东方卫视
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001013/index.m3u8
