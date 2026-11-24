@@ -160,13 +160,13 @@ http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001570/index.m3u8
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001580/index.m3u8
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/panpeach/tvbox/TVlogo/CHC影迷电影.png" group-title="CHC频道",CHC影迷电影
 http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001581/index.m3u8
-#EXTINF:-1 tvg-id="390" tvg-name="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/panpeach/tvbox/TVlogo/睛彩竞技.png" group-title="咪咕体育",睛彩竞技
+#EXTINF:-1 tvg-id="382" tvg-name="睛彩竞技" tvg-logo="https://gcore.jsdelivr.net/gh/panpeach/tvbox/TVlogo/睛彩竞技.png" group-title="咪咕体育",睛彩竞技
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=toShengfen&mode=1
-#EXTINF:-1 tvg-id="391" tvg-name="睛彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/panpeach/tvbox/TVlogo/睛彩篮球.png" group-title="咪咕体育",睛彩篮球
+#EXTINF:-1 tvg-id="383" tvg-name="睛彩篮球" tvg-logo="https://gcore.jsdelivr.net/gh/panpeach/tvbox/TVlogo/睛彩篮球.png" group-title="咪咕体育",睛彩篮球
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=toShengfen&mode=1
-#EXTINF:-1 tvg-id="389" tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/panpeach/tvbox/TVlogo/睛彩青少.png" group-title="咪咕体育",睛彩青少
+#EXTINF:-1 tvg-id="384" tvg-name="睛彩青少" tvg-logo="https://gcore.jsdelivr.net/gh/panpeach/tvbox/TVlogo/睛彩青少.png" group-title="咪咕体育",睛彩青少
 http://221.181.100.26/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=m
-#EXTINF:-1 tvg-id="392" tvg-name="睛彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/panpeach/tvbox/TVlogo/睛彩广场舞.png" group-title="咪咕体育",睛彩广场舞
+#EXTINF:-1 tvg-id="381" tvg-name="睛彩广场舞" tvg-logo="https://gcore.jsdelivr.net/gh/panpeach/tvbox/TVlogo/睛彩广场舞.png" group-title="咪咕体育",睛彩广场舞
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=toShengfen&mode=1
 #EXTINF:-1 tvg-id="咪视界" tvg-name="咪视界-1" tvg-logo="https://gcore.jsdelivr.net/gh/panpeach/tvbox/TVlogo/咪咕体育.png" group-title="咪咕体育",咪视界-1
 http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&mode=1
